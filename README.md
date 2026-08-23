@@ -5,3 +5,4 @@
 - Introduction to DevOps
 - Linux Fundamentals
 - Linux Advanced
+- Shell scripting
