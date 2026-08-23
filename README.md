@@ -6,3 +6,4 @@
 - Linux Fundamentals
 - Linux Advanced
 - Shell scripting
+- Networking and System Design
