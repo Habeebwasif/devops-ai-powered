@@ -7,4 +7,3 @@
 - Linux Advanced
 - Shell scripting
 - Networking and System Design
-- Docker advanced
